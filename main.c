@@ -2,3 +2,5 @@ main()
 1.switch
 2.
 3.
+4.branch2 add file conflict
+4.branch
